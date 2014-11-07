@@ -2,9 +2,7 @@
 public class Pokedeck {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		GameGUI game_ui = new GameGUI ();
+		game_ui.start ();
 	}
-	
-
 }
